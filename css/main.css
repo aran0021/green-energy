@@ -293,7 +293,6 @@ footer p {
     figcapture {
     float: right;
     position: absolute;
-    top: 50%;
     transform: translateY(-50%);
     }
     
