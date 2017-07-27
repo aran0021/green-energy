@@ -53,9 +53,9 @@ buttons = document.querySelectorAll(".btn");
     
 
 contents = [
-    "<img src=/img/chrome-512.png><p>Renewable energy resources exist over wide geographical areas, in contrast to other energy sources, which are concentrated in a limited number of countries</p>",
-    "<img src=/img/firefox-512.png><p>Rapid deployment of renewable energy and energy efficiency is resulting in significant energy security, climate change mitigation, and economic benefits.</p>",
-    "<img src=/img/opera-512.png><p>Results of a recent review of the literature[8] concluded that as greenhouse gas (GHG) emitters begin to be held liable for damages resulting from GHG emissions resulting in climate change, a high value for liability mitigation would provide powerful incentives for deployment of renewable energy technologies.</p>"
+    "<img src=./img/chrome-512.png><p>Renewable energy resources exist over wide geographical areas, in contrast to other energy sources, which are concentrated in a limited number of countries</p>",
+    "<img src=./img/firefox-512.png><p>Rapid deployment of renewable energy and energy efficiency is resulting in significant energy security, climate change mitigation, and economic benefits.</p>",
+    "<img src=./img/opera-512.png><p>Results of a recent review of the literature[8] concluded that as greenhouse gas (GHG) emitters begin to be held liable for damages resulting from GHG emissions resulting in climate change, a high value for liability mitigation would provide powerful incentives for deployment of renewable energy technologies.</p>"
     ];
 
     container = document.querySelector(".container");
