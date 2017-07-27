@@ -293,7 +293,7 @@ footer p {
     figcapture {
     float: right;
     position: absolute;
-    transform: translateY(0%);
+    transform: translateY(50%);
     }
     
     .box li {
